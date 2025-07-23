@@ -182,6 +182,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 
 ### Temporary email
 
+* [FreeCustom.Email](https://www.freecustom.email) - Free and open source disposable e-mail addresses service.
 * [Maildrop](https://maildrop.cc) – Free and open source disposable e-mail addresses service.
 * [10 Minute Mail](https://10minutemail.com) – Free and anonymous temporary email.
 * [erine.email](https://erine.email) – Unlimited disposable email addresses to avoid spam.
