@@ -504,6 +504,7 @@ _Note that it is pretty redundant to use uBlock Origin + Privacy Badger as it se
 * [Kate](https://kate-editor.org) – A multi-document editor part of KDE.
 * [Notepad++](https://notepad-plus-plus.org) – A free code editor and Notepad replacement that supports several languages.
 * [Geany](https://www.geany.org) – A powerful, stable and lightweight programmer's text editor.
+* [NextJSON](https://nextjson.com/) – Free online nested JSON parser and formatter that works in the browser, handy for inspecting JSON responses and API payloads.
 
 ### FTP clients
 
